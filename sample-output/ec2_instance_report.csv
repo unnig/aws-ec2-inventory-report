@@ -1,1 +1,2 @@
-
+Instance ID,Instance Name,Instance State,Instance Type,Private IP Address,Public IP Address,Availability Zone,Launch Time
+i-04bb5259ee7364ade,cloud-watch-unni,running,t3.micro,172.31.23.81,98.94.7.159,us-east-1c,2026-10-21T11:26:21+00:00
